@@ -59,7 +59,7 @@ Prompts for Talentless AI cold email campaign. Talentless AI produces cinematic 
 
 ---
 
-## 🤝 Relevize (Client — Michael Gardiner)
+## 🤝 Relevize 
 
 Prompts for Relevize cold email campaign. Relevize is a channel partner platform (MDF/SPIFF payments, co-branded campaigns).
 
