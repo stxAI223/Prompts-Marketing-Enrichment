@@ -8,26 +8,6 @@ All AI prompts extracted from Marketing Enrichment n8n workflows. Organized by c
 
 ```
 prompts/
-├── icebreakers/          # Cold email opening lines (SSGrowthAutomation)
-├── website-summarizer/   # Website scraping & abstraction
-├── company-name-cleaner/ # Normalize company names for cold email
-└── relevize/             # Relevize channel partner value props (client)
-```
-
----
-
-## 🧊 Icebreakers
-
-# n8n AI Prompts Library
-
-All AI prompts extracted from Marketing Enrichment n8n workflows. Organized by category, deduplicated, with context on what each prompt does and where it outputs.
-
----
-
-## 📁 Structure
-
-```
-prompts/
 ├── icebreakers/                        # Cold email opening lines (SSGrowthAutomation)
 ├── website-summarizer/                 # Website scraping & abstraction
 ├── company-name-cleaner/               # Normalize company names for cold email
