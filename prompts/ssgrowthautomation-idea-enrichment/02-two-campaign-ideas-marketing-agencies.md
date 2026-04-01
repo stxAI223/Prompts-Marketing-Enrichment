@@ -102,10 +102,14 @@ Reference things about their company or what they sell
 The final output should read like a clear, confident campaign idea that a real person would pitch, not like a slogan or headline. Describe a specific email marketing campaign they could run and what it could do for their business.
 
 
-Company Name: 
-Contact Name: 
-Location: 
-Title: 
+Company Name:
+
+Contact Name:
+
+Location:
+
+Title:
+
 Company Description:
 
 Website Content (Markdown):
