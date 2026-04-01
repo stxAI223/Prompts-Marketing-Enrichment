@@ -102,12 +102,11 @@ Reference things about their company or what they sell
 The final output should read like a clear, confident campaign idea that a real person would pitch, not like a slogan or headline. Describe a specific email marketing campaign they could run and what it could do for their business.
 
 
-Company Name: {{ $('Get row(s) in sheet2').item.json['Company Name'] }}
-Contact Name: {{ $('Get row(s) in sheet2').item.json['Full Name'] }}
-Location: {{ $('Get row(s) in sheet2').item.json['Company Raw Address'] }}
-Title: {{ $('Get row(s) in sheet2').item.json.Title }}
+Company Name: 
+Contact Name: 
+Location: 
+Title: 
 Company Description:
-{{ $('Get row(s) in sheet2').item.json['Company Short Description'] }}
-Website Content (Markdown): {{ $json.data }}
 
+Website Content (Markdown):
                                     
