@@ -58,6 +58,8 @@ Prompts that generate specific cold email campaign ideas that Salvador (SSGrowth
 | File | Node | Output |
 |---|---|---|
 | `01-campaign-idea-marketing-agencies.md` | `1` | 1 bullet — specific campaign SS Growth would run for a marketing agency (17-27 words) |
+| `02-two-campaign-ideas-marketing-agencies.md` | `2` | 2 bullet — specific campaign SS Growth would run for a marketing agency |
+| `03-three-ideas.md` | `3` | 3 bullet — specific campaign SS Growth would run for a marketing agency |
 
 ---
 
