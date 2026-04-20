@@ -1,4 +1,6 @@
 # TAX SCORING
-## GPT-4O-MINI
+### GPT-4O-MINI
 
 ---
+
+
